@@ -111,7 +111,7 @@ class Editor {
             if(!l.get(i).toString().equals("\n")) {
                 writer.write(" ");
                 System.out.print(" ");
-            }
+            } 
         }
     }
     public void printCursor() {
